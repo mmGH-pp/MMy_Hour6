@@ -1,0 +1,48 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
+-> 3 Choices, difficulty depends, time depends
+
+
+
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
+-> Lasers
+-> Water/Lava/Acid
+-> Basic jumps
+-> Rocks
+-> Wall Bars
+-> Giant hole/cavern
+-> Separation walls
+-> Ceiling
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
+-> Player Controller Mechanic (for jump)
+-> All 3 maps
+
+
+D. Modify the sky and textures to create a world based on your theme.
+-> Stones, Dirt, Water/Lava/Acid,
+
+ Textures: https://assetstore.unity.com/packages/2d/textures-materials/30-stylized-textures-free-246556 
+-> GrassHillAlbedo
+-> StoneRockAlbedo
+-> DirtAlbedo/Base Color
+-> Metal Grate
+-> Carpet Material
+-> Volcanic Rock
+-> Bricks
+-> Pottery Ceramic
+-> Concrete
+-> Sand Bump
+
+Skybox:
+https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
+
+Lava:
+https://assetstore.unity.com/packages/vfx/shaders/free-lava-shader-292492
